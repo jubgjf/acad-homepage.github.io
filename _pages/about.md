@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Jiannan Guan, a second-year Ph.D student at HIT-SCIR, supervised by Prof. Wanxiang Che and Asst. Prof. Qingfu Zhu.
+Hi, I am Jiannan Guan, a third-year Ph.D student at HIT-SCIR, supervised by Prof. Wanxiang Che and Prof. Qingfu Zhu.
 
-My research focuses primarily on continual learning and incremental pre-training.
+My research focuses primarily on chain-of-thought reasoning, continual learning and incremental pre-training.
 
 
 # 🔥 News
